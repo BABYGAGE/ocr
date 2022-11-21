@@ -6,7 +6,7 @@ This is a repository for implementing image/text value transfer through get/post
   1) ngrok 사이트 로그인 후 ngrok zip 파일 받아 압축해제
   2) open cmd 
   3) cd 압축해제된 파일 폴더명
-  4) ngrok config add-authtoken 2HnBIcpGUbZ1pdR5RaTNTlBURmO_4npSCfYrDTJu1PQ83YC5w
+  4) ngrok config add-authtoken {토큰 입력} ex) 2HnBIcpGUbZ1pdR5RaTNTlBURmO_4npSCfYrDTJu1PQ83YC5w (Yujeong)
   5) ngrok http {port 주소}
 + In pycharm..
   1) pull ocr git repository
