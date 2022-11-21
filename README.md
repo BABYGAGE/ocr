@@ -1,4 +1,4 @@
-# ocr 
+# ocr 💻
 This is a repository for implementing image/text value transfer through get/post method between Android studio and flask server using python.
   1) ngrok 사이트에서 zip 파일 받아 압축해제
   2) open cmd 
