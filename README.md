@@ -10,10 +10,10 @@ This is a repository for implementing image/text value transfer through get/post
   3) cd 압축해제된 파일 폴더명
   4) ngrok config add-authtoken {토큰 입력} ex) 2HnBIcpGUbZ1pdR5RaTNTlBURmO_4npSCfYrDTJu1PQ83YC5w (Yujeong)
   5) ngrok http {port 주소}
+  6) 생성된 주소 ctrl+c
 + In pycharm..
   1) pull ocr git repository
   2) enter "flask run" in terminal
-  3) forwarding 뒤에 있는 서버 주소 코드 ctrl+c
 + In android studio..
   1) TestActivity.kt 109 line에서 val postUrl = "{복사한 서버 주소}/getpost" 중괄호 안에 주소 ctrl+v
   2) run android studio!
